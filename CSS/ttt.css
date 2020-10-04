@@ -1,0 +1,66 @@
+body
+{
+	margin: 0 0;
+	background-color: black;
+}
+th{
+			width: 100px;
+			height: 100px;
+			border: 1px solid white;
+			font-size: 50px;
+			font-family: cursive;
+		}
+
+.header
+{
+	height:100px;
+	text-align: center;
+	margin: 0px 0px 0px 0px;
+	background: steelblue;
+	margin-bottom: 50px;
+}
+
+.container
+{
+	width: 300px;
+	margin: 0 auto;
+	color:white;
+
+}
+
+.result
+{
+	color: white;
+	text-align: center;
+	font-family: cursive;
+    font-size: 80px;
+
+}
+
+.player
+{
+	color:steelblue;
+	background-color: black;
+	height:100%;
+	padding: 5px 6px;
+}
+.play
+{
+	color: white;
+	text-align: center;
+	font-family: cursive;
+    font-size: 80px;
+    background-color: black;
+    border: none;
+    align-content: center;
+
+}
+div
+{
+	align-items: center;
+}
+
+.hor
+{
+	color:steelblue;
+}
